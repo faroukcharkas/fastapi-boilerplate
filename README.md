@@ -1,4 +1,3 @@
-# Best FastAPI Structure
-## (in my opinion)
+# Best FastAPI Structure (in my opinion)
 
-Work in progress :P
+Found myself showing this structure over and over again for TechX and figured I might as well make a boilerplate
